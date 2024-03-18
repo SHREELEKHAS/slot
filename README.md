@@ -160,9 +160,10 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Uploading image.png…]()
 
 
+
+![Uploading Screenshot 2024-03-17 203510.png…]()
 
 
 ## RESULT
