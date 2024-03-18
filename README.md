@@ -27,134 +27,141 @@ Execute the program using runserver command.
 ```
 <!DOCTYPE html>
 <html>
-<head>
-    <title>SLOT TIME TABLE - MOULIDHAR (212223240042)</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 80%;
-            margin: 5px auto;
-        }
-
-        table + table {
-            margin-top: 20px;
-        }
-
-        th, td {
-            border: 5px solid Black;
-            text-align: center;
-            padding: 8px;
-        }
-
-        img {
-            width: 100%;
-            height: 15%;
-        }
-
-        .center-text {
-            text-align: center;
-        }
-        
-        strong {
-            font-weight: bold;
-            font-size: 30px;
-        }
-    </style>
-</head>
 <body>
-    <img src="logo.png">
-    <div class="center-text">
-        <p><strong>SLOT TIME TABLE - MOULIDHAR (212223240042) </strong></p>
-    </div>
-    <table>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">Day/Time</th>
-            <th colspan="1" bgcolor="Yellow">Monday</th>
-            <th colspan="1" bgcolor="Yellow">Tuesday</th>
-            <th colspan="1" bgcolor="Yellow">Wednesday</th>
-            <th colspan="1" bgcolor="Yellow">Thursday</th>
-            <th colspan="1" bgcolor="Yellow">Friday</th>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">8-10</th>
-            <th colspan="3" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">10-12</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">12-1</th>
-            <th colspan="5" bgcolor="Cyan">LUNCH</th>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">1-3</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">SS</th>
-        </tr>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">3-5</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-        </tr>
-    </table>
+<center><img src="logo.png" style="width:620px;height:120px;">
+<h3 align="center"> SLOT TIME TABLE-SHREE LEKHA.S(212223110052)</h3>
+<table  style="background-color:rgb(23, 236, 236);"border="4" align="center">
 
-    <table>
-        <tr>
-            <th colspan="1" bgcolor="White">S. No.</th>
-            <th colspan="1" bgcolor="White">Subject Code</th>
-            <th colspan="2" bgcolor="White">Subject Name</th>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="White">1.</th>
-            <th colspan="1" bgcolor="White">19AI41</th>
-            <th colspan="2" bgcolor="White">Fundamentals of Web Application Development(FWAD)</th>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="White">2.</th>
-            <th colspan="1" bgcolor="White">19EN612</th>
-            <th colspan="2" bgcolor="White">German Basic (GER)</th>        
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="White">3.</th>
-            <th colspan="1" bgcolor="White">19PH206</th>
-            <th colspan="2" bgcolor="White">Physics for Information Technology (PHY)</th> 
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="White">4.</th>
-            <th colspan="1" bgcolor="White">19CY205</th>
-            <th colspan="2" bgcolor="White">Principles of Chemistry in Engineering (CHE)</th> 
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="White">5.</th>
-            <th colspan="1" bgcolor="White">19MA201</th>
-            <th colspan="2" bgcolor="White">Calculus and Matrix Algebra (MAT)</th> 
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="White">6.</th>
-            <th colspan="1" bgcolor="White">19EY701</th>
-            <th colspan="2" bgcolor="White">Soft Skills (SS)</th> 
-        </tr>
-    </table>
+<tr>
+<th style="background-color:rgb(255, 255, 0);" >Day/Time</th>
+<th style="background-color:rgb(255, 255, 0);" >Monday</th>
+<th style="background-color:rgb(255, 255, 0);" >Tuesday</th>
+<th style="background-color:rgb(255, 255, 0);" >Wednesday</th>
+<th style="background-color:rgb(255, 255, 0);" >Thursday</th>
+<th style="background-color:rgb(255, 255, 0);" >Friday</th>
+<th style="background-color:rgb(255, 255, 0);" >Saturday</th>
+</tr>
+
+<tr>
+<th style="background-color:rgb(255, 255, 0);" >8-10</th>
+<td>Chemistry</td>
+<td>free</td>
+<td>Web</td>
+<td>EDM</td>
+<td>Free</td>
+<td>Soft Skill</td>
+</tr>
+
+<tr>
+<th style="background-color:rgb(255, 255, 0);" >10-12</th>
+<td>Beee</td>
+<td>Web</td>
+<td>CN</td>
+<td>Free</td>
+<td>C</td>
+<td>CN</td>
+</tr>
+
+<tr>
+<th style="background-color:rgb(255, 255, 0);" >1-3</th>
+<td>Web</td>
+<td>Gender</td>
+<td>Free</td>
+<td>Beee</td>
+<td>CA</td>
+<td>Chemistry</td>
+
+</tr>
+
+<tr >
+<th style="background-color:rgb(255, 255, 0);" >3-5</th>
+<td>C</td>
+<td>EDM</td>
+<td>Free</td>
+<td>Free</td>
+<td>free</td>
+<td>free</td>
+</tr>
+
+
+</table>
+<br>
+<table border="4" align="center">
+
+<tr>
+<th>S.no</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>19CY205</td>
+<td>Principles of Chemistry in Engineering(Chemistry)</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td> 19EE305</td>
+<td>Basic Electrical, Electronics and Measurement Engineering(Beee)</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>19AI414 </td>
+<td>Fundamentals of Web Application Development(Web)</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>19AI304</td>
+<td>Fundamentals of C Programming(C)</td>
+</tr>
+
+
+<tr>
+<td>5</td>
+<td>19EN609</td>
+<td>Gender Sensitization(Gender)</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>19AI302 </td>
+<td>Engineering Design and Modelling(EDM)</td>
+</tr>
+ 
+<tr>
+<td>7</td>
+<td> 19CS406</td>
+<td>Computer Networks(CN)</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>19CS305</td>
+<td>Computer Architecture(CA)</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>19EY702 </td>
+<td>Creative Skills for Communication(Soft Skill)</td>
+</tr>
+
+
+
+
+
+</table>
 </body>
 </html>
 ```
 
 
 ## OUTPUT
-![IMAGE](https://github.com/moulidharyadav/slot/assets/147078316/4ec4776c-b353-423a-b3d7-4a5cc93ad18d)
 
+![alt text](<Screenshot 2024-03-17 203510.png>)
 
 
 ## RESULT
