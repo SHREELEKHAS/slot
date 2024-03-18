@@ -1,5 +1,6 @@
 # Ex03 Time Table
-## Date:18.3.2024
+## Date:18.03.2024
+
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -28,22 +29,22 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <body>
-<center><img src="logo.png" style="width:620px;height:120px;">
+<center><img src="logo.png" height="100" width="540">
 <h3 align="center"> SLOT TIME TABLE-SHREE LEKHA.S(212223110052)</h3>
-<table  style="background-color:rgb(23, 236, 236);"border="4" align="center">
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="pink">
 
 <tr>
-<th style="background-color:rgb(255, 255, 0);" >Day/Time</th>
-<th style="background-color:rgb(255, 255, 0);" >Monday</th>
-<th style="background-color:rgb(255, 255, 0);" >Tuesday</th>
-<th style="background-color:rgb(255, 255, 0);" >Wednesday</th>
-<th style="background-color:rgb(255, 255, 0);" >Thursday</th>
-<th style="background-color:rgb(255, 255, 0);" >Friday</th>
-<th style="background-color:rgb(255, 255, 0);" >Saturday</th>
+<th bgcolor="orange" >Day/Time</th>
+<th bgcolor="orange" >Monday</th>
+<th bgcolor="orange">Tuesday</th>
+<th bgcolor="orange" >Wednesday</th>
+<th bgcolor="orange" >Thursday</th>
+<th bgcolor="orange">Friday</th>
+<th bgcolor="orange" >Saturday</th>
 </tr>
 
 <tr>
-<th style="background-color:rgb(255, 255, 0);" >8-10</th>
+<th bgcolor="orange" >8-10</th>
 <td>Chemistry</td>
 <td>free</td>
 <td>Web</td>
@@ -53,7 +54,7 @@ Execute the program using runserver command.
 </tr>
 
 <tr>
-<th style="background-color:rgb(255, 255, 0);" >10-12</th>
+<th bgcolor="orange" >10-12</th>
 <td>Beee</td>
 <td>Web</td>
 <td>CN</td>
@@ -63,7 +64,7 @@ Execute the program using runserver command.
 </tr>
 
 <tr>
-<th style="background-color:rgb(255, 255, 0);" >1-3</th>
+<th bgcolor="orange" >1-3</th>
 <td>Web</td>
 <td>Gender</td>
 <td>Free</td>
@@ -74,7 +75,7 @@ Execute the program using runserver command.
 </tr>
 
 <tr >
-<th style="background-color:rgb(255, 255, 0);" >3-5</th>
+<th bgcolor="orange" >3-5</th>
 <td>C</td>
 <td>EDM</td>
 <td>Free</td>
@@ -156,12 +157,13 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
+
 ```
 
 
 ## OUTPUT
+![alt text](<Screenshot 2024-03-18 144652.png>)
 
-![alt text](<Screenshot 2024-03-17 203510.png>)
 
 
 
